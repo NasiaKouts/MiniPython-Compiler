@@ -20,7 +20,7 @@ We implemented 2 visitors, mainly because of the fact that functions can be call
 6. Duplicate definition of function with the same number of arguments
 
 ## Contributors
+Chaikalis George
 Chasakis Dionysis [@ChasakisD](https://github.com/ChasakisD)  
 Katopodis Antonis [@A.Katopodis](https://github.com/A-Katopodis)  
 Koutsopoulou Nasia [@NasiaKouts](https://github.com/NasiaKouts)  
-Vasilopoulou Melina [@MelinaVasilopoulou](https://github.com/MelinaVasilopoulou)
